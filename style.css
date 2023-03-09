@@ -27,12 +27,11 @@ h1{
     color: #3c4043;
     font-family: arial,sans-serif;
     font-size: 14px;
-    margin: 110px 45px;
-    padding: 0 16px;
+    margin: 5px 20px;
+    padding: 0px 20px;
     line-height: 27px;
     height: 34px;
     min-width: 54px;
-    text-align: center;
     cursor: pointer;
     user-select: none;
 
@@ -41,14 +40,28 @@ h1{
     background-color: transparent;
     border: none;
     margin: 10;
-    padding: 50;
+    padding: 50px 10px;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
     outline: none;
     display: flex;
     -webkit-tap-highlight-color: transparent;
-    margin-top: -37px;
+    margin-top: -26px;
     height: 34px;
-    font-size: 16px;
-    flex: 100%;
+    font-size: 20px;
+    flex: 10%;
+}
+.buttonimg{
+
+    margin: 1200px;
+    padding: 10px 10px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -280px;
+    height: 40px;
+    font-size: 13px;
+    
 }
